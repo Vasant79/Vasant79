@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center"  style= "heigth :90% ,width: 30%" />
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center"  style= "heigth :90% ;width: 50%" />
 
 </div>
 
@@ -28,6 +28,8 @@
 
 <br/>
 
+<br/>
+<br/>
 <div align="center">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vasant79&layout=compact)
@@ -36,7 +38,8 @@
 
 ## Connect with me
 
-<div>
+<br>
+<div >
 <a href="https://github.com/Vasant79" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
