@@ -6,6 +6,7 @@
 ### <div align="center">I'm Vasant , a full-time Software Developer 👨‍💻 <br>working remotely since 2021 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Vasant79.Vasant79) 🚀
 
 </div>
+<br>
 
 - 🌱 I’m currently learning Java Full Stack.
 
@@ -26,6 +27,12 @@
 </div>
 
 <br/>
+
+<div align="center">
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vasant79&layout=compact)
+
+</div>
 
 ## Connect with me
 
