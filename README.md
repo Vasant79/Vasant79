@@ -1,9 +1,9 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center"  style="height : 100px ;width: 305" />
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center"  style= "heigth :90% ,width: 30%" />
 
 </div>
 
-### <div align="center">I'm Vasant , a full-time Software Developer 👨‍💻 working remotely since 2021 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Vasant79.Vasant79) 🚀
+### <div align="center">I'm Vasant , a full-time Software Developer 👨‍💻 <br>working remotely since 2021 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Vasant79.Vasant79) 🚀
 
 </div>
 
@@ -29,7 +29,7 @@
 
 ## Connect with me
 
-<div align="center">
+<div>
 <a href="https://github.com/Vasant79" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
